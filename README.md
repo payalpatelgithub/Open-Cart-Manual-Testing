@@ -1,32 +1,34 @@
 # OpenCart Manual Testing Project
 
-## Project Overview
-This project demonstrates **manual testing** on the OpenCart demo website.
+## About This Project
+This project showcases my **manual testing skills** by testing the OpenCart demo website.  
+It includes detailed test cases for key functionalities and a **sample bug report** to demonstrate how bugs are documented professionally.  
 
-**Website:** [https://demo.opencart.com/](https://demo.opencart.com/)
+**Website Tested:** [OpenCart Demo](https://demo.opencart.com/)
 
 ---
 
-## Contents
-- **Test Cases:** Detailed test cases for login, search, cart, checkout, account management, coupons, and UI elements.
-- **Bug Report:** Sample bug report demonstrating realistic bug scenarios.  
-  **Note:** The OpenCart demo website is stable, so no actual bugs were found. This bug report is purely for demonstration purposes to showcase testing skills.
+## Files in This Repository
+- **OpenCart_Test_Cases.xlsx** – Contains 20 test cases covering login, search, add to cart, checkout, account management, and more.  
+- **OpenCart_Bug_Report.xlsx** – Sample bug report showing how to log and track bugs.  
+  > **Note:** The OpenCart demo website is stable, so no actual bugs were found. This bug report is for demonstration purposes only.  
 
 ---
 
 ## How to Use
-1. Download the Excel files.  
-2. Execute test cases on the OpenCart demo website.  
-3. Update bug report as necessary (optional, for learning purposes).
+1. Download the Excel files from this repository.  
+2. Execute the test cases on the OpenCart demo website.  
+3. Observe results and update the bug report if you want to practice documenting bugs.  
 
 ---
 
-## Notes
-- All test cases are original and created for this project.  
-- The bug report is **sample-only** to demonstrate documentation skills.
+## Highlights
+- All test cases are **original and created by me**.  
+- The bug report demonstrates **how to document issues professionally**, even when no real bugs are present.  
+- Project shows **end-to-end testing process** for an e-commerce website.  
 
 ---
 
 ## Author
 **Payal Patel**  
-B.Tech CSE, Software Testing
+B.Tech CSE – Software Testing  
